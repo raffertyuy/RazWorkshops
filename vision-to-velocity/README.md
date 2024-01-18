@@ -30,6 +30,7 @@ This workshop is about helping organizations increase their _Engineering Velocit
   - What is DevSecOps?
   - DevOps Evolution Model
   - DevSecOps Toolchain
+  - AI for Developers
 - **Afternoon (Hands-on)**
   - see [Hands-on Labs](https://github.com/raffertyuy/razhandsonlabs)
 
